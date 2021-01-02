@@ -16,6 +16,11 @@
 └─snapshots
 ```
 
+### colab users
+
+- for gpu users, click [here](https://colab.research.google.com/drive/1Blnsb4KQaI_voyxJYXRHT2sUxIJzsrH_?usp=sharing)
+- for cpu users, click [here](https://colab.research.google.com/drive/1dkBrs1s9fHNKA3HfmhLSxHIrMJVpv4qm?usp=sharing)
+
 ### experimental facility
 
 - if gpu available, please uncomment "for gpu users" statement and comment "for cpu users" statement
