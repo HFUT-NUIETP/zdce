@@ -16,6 +16,10 @@
 └─snapshots
 ```
 
+### dataset prepare
+
+tips can be checked in [here](https://github.com/Li-Chongyi/Zero-DCE#train)
+
 ### colab users
 
 - for gpu users, click [here](https://colab.research.google.com/drive/1Blnsb4KQaI_voyxJYXRHT2sUxIJzsrH_?usp=sharing)
